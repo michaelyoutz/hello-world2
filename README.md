@@ -3,4 +3,4 @@ Test Repository that I made from the tutorial link that Beth sent to me. Created
 
 This is the first commit after this branch was made.
 
-This is the third commit I've made to this repository.
+This is the third commit I've made to this repository. I made this commit to Branch#3 branch.
